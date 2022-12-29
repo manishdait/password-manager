@@ -6,7 +6,7 @@ This application helps to store the password and use them when needed. The passw
 
 The application has PIN verification along with biometric verification.
 
-<a href="https://github.com/ManishDait/PasswordManager/blob/master/apkFile/app-release.apk" download="PasswordManager">Download the apk file.</a>
+<a href="https://github.com/ManishDait/PasswordManager/blob/master/apkFile/app-release.apk" download>Download the apk file.</a>
 
 ### This project is made by using Java </br>
 
