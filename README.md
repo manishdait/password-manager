@@ -8,7 +8,7 @@ The application has PIN verification along with biometric verification.
 
 ### This project is made by using Java </br>
 
-<img src="img/img1"></br>
-<img src="img/img2"></br>
+<img src="img/img1.png"></br>
+<img src="img/img2.png"></br>
 
 
