@@ -4,16 +4,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="?attr/colorPrimary"
+    android:background="?attr/colorOnSecondary"
     tools:context=".FingerprintAuth">
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbar"
-        app:titleTextColor="@color/white"
+        app:titleTextColor="?attr/colorPrimary"
         app:title="@string/app_name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="?attr/colorPrimary"
+        android:background="?attr/colorOnSecondary"
         android:minHeight="?attr/actionBarSize"
         android:theme="?attr/actionBarTheme"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -39,7 +39,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-medium"
         android:text="Biometric Authentication"
-        android:textColor="@color/white"
+        android:textColor="?attr/colorPrimary"
         android:textSize="23dp"
         app:layout_constraintBottom_toTopOf="@+id/fingerprint"
         app:layout_constraintEnd_toEndOf="parent"
